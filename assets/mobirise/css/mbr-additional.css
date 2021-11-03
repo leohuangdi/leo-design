@@ -2165,13 +2165,21 @@ a {
   text-align: left;
   color: #ffffff;
 }
-.cid-sNB5xEeYjI {
-  background-image: url("../../../assets/images/vias-box-table-2000x1126.jpg");
+.cid-sNB5xFziZc {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #ffffff;
+}
+.cid-sNB5xFziZc .mbr-section-title {
+  text-align: left;
+}
+.cid-sNB5xFziZc .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-sNB5xED2ls {
   padding-top: 9rem;
   padding-bottom: 9rem;
-  background-image: url("../../../assets/images/marssun-shirt-1160x778.png");
+  background-image: url("../../../assets/images/app-design1-1800x1200.jpg");
 }
 .cid-sNB5xED2ls .mbr-text,
 .cid-sNB5xED2ls .mbr-section-btn {
@@ -2243,27 +2251,10 @@ a {
 .cid-sNB5xEYnJg .item-subtitle {
   text-align: center;
 }
-.cid-sNB5xFziZc {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sNB5xFziZc .mbr-section-title {
-  text-align: left;
-}
-.cid-sNB5xFziZc .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-sNB5xGslPr {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sNB5xGslPr .mbr-section-title {
-  text-align: left;
-}
-.cid-sNB5xGslPr .mbr-section-subtitle {
-  text-align: left;
+.cid-sNB5xEeYjI {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/vias-box-table-2000x1126.jpg");
 }
 .cid-sNB5xGKhbq {
   padding-top: 5rem;
